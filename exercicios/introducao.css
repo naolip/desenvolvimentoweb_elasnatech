@@ -1,0 +1,31 @@
+body{
+    background-color: #0B91E3;
+    color: rgb(243, 238, 234);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;}
+
+.centralizado{
+    text-align: center;
+}
+
+.fundo{
+    background-color: #D784E0;
+}
+.padding{
+    padding: 80px;
+}
+.margen{
+    margin: 80px;
+}
+.border{
+    border:  20px solid red;
+}
+.destaque{
+    background-color: blueviolet;
+    text-align: center;
+}
+.box{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(18, 48, 102);
+}
