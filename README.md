@@ -23,10 +23,20 @@ _Contéudo em breve será colocado dentro da tabela via web scraping_
 
 | Curso                                      | Status            |
 | ------------------------------------------ | ---------------- |
-| Fundamentos Da Web                         | Andamento        |
-| Introdução HTML                            | **Concluído**    |
-| Introdução CSS                             | Andamento        |
-| Trabalhando com Imagens                    | Andamento        |
+|**Fundamentos Da Web**                         | **Andamento**        |
+|-----Introdução HTML                            | **Concluído**    |
+|-----Introdução CSS                             | **Concluído**     |
+|-----Trabalhando com Imagens                    | **Concluído**   |
+|-----Estrutura Semântica e Posicionamento       | **Concluído**   |
+|-----Flexbox                   | **Concluído**   |
+|**Javascript**                    | Andamento   |
+|-----Variáveis e Operadores                    | Andamento   |
+|-----Lógica de Programação - Laços de repetições| Andamento   |
+|-----Lógica de Programação - Funções| Andamento   |
+|-----Lógica de Programação - Tratando exceções| Andamento   |
+|-----Lógica de Programação - Conjunto de dados| Andamento   |
+|-----Javascript| Andamento   |
+|-----Javascript: Funções| Andamento   |
 
 ## Módulo 3
 
@@ -35,3 +45,6 @@ _Contéudo em breve será colocado dentro da tabela via web scraping_
 | Conhecendo Linguagens de programação       | Não iniciado Pelo Professor |
 | Programação Python do Zero ao Avançado + 32 Projetos Reais | Não iniciado Pelo Professor |
 | ChatGPT para Python + 7 Projetos Python Reais com ChatGPT IA | Não iniciado Pelo Professor |
+
+
+
